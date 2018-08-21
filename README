@@ -1,0 +1,4 @@
+Simple DNS server to do 2 things:
+1. Reply client IP when asked for my.domain.com
+2. Reply IP address embeded in hostname as A record
+(Ex: 1-2-3-4.domain.com A 1.2.3.4)
